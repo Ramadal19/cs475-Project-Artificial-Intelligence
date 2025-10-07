@@ -19,7 +19,6 @@ techniques with a focus on real-world impact.
 ## Author(s):
 - Team Members: Danny Calderon
 - Team Members: Candy Naveda
-- Team Members: Ibrahin Perez
 - Team Members: Blessy Vargheses
 
 ## Course Info  
